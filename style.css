@@ -24,12 +24,21 @@
     font-size: 30px;
     justify-content: space-around;
 }
-.div-imagem-p3 {
+.div-imagem-p3 { 
     display: flex;
     align-items: center;
     text-align: center;
     font-size: 30px;
     justify-content: space-around;
+   
+}
+.div-imagem-p4 {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    font-size: 30px;
+    justify-content: space-around;
+
 }
 
 .título-corpo{
