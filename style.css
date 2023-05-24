@@ -10,16 +10,17 @@
     flex-direction: row;
     justify-content:space-between;
 }
+body {
+    background-color: #ffebeb;
+    margin: 0%;
+    padding: 0%;
+ }
 
 .título-corpo{
     display: flex;
     justify-content: center;
 }
-.body {
-   background-color: #ffebeb;
-   margin: 0%;
-   padding: 0%;
-}
+
 .div-imagem-p1 {
     display: flex;
     align-items: center;
