@@ -10,11 +10,12 @@
     flex-direction: row;
     justify-content:space-between;
 }
-body {
-    background-color: #ffebeb;
-    margin: 0%;
-    padding: 0%;
- }
+
+body{
+     
+     margin: 0%;
+     padding: 0%;
+}
 
 .título-corpo{
     display: flex;
