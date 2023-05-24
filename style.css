@@ -64,3 +64,8 @@
      display: flex;
      justify-content: center;
 }
+.body {
+    background-color: #ffebeb;
+    margin: 0%;
+    padding: 0%;
+}
