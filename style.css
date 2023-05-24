@@ -59,6 +59,12 @@
     font-size: 30px;
     justify-content: space-around;
 }
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ff9d9d;
+}
 
 .título-corpo{
      display: flex;
